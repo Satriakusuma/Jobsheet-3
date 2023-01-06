@@ -1,7 +1,7 @@
 # Jobsheet-3
 TOPOLOGI JARINGAN LOKAL DAN WIFI
 
-ALAT DAN BAHAN
+Alat dan bahan
 1) ESP32
 2) Breadboard
 3) Kabel jumper
@@ -13,7 +13,7 @@ ALAT DAN BAHAN
 
 A. ESP32 Wi-Fi Modes dan Wifi-Scan
 
-1. Hasil Scan daftar jaringan Wi-Fi yang tersedia.
+1. Gambar hasil scan daftar jaringan Wi-Fi yang tersedia.
 
 ![1](https://user-images.githubusercontent.com/121172074/209304157-cb1ad3f4-3f27-4b56-84d4-0437c3b3c681.png)
 
@@ -34,7 +34,7 @@ B. Menghubungkan ESP32 dengan Jaringan Wi-Fi
 
 
 
-C. Menghubungkan Kembali (Re-connect) ESP32 dengan Jaringan Wi-Fi
+C. Re-connect ESP32 dengan jaringan Wi-Fi
 
 1.
 
@@ -46,15 +46,12 @@ D. Mengganti Hostname ESP32
 
 1. 
 
-
 ![D](https://user-images.githubusercontent.com/121172074/209316524-238ce0d0-ef30-41a1-94d9-205b4e5434da.png)
 
 
 
 
 E. Mengirim Data Sensor ke Database
-
-
 
 ![e](https://user-images.githubusercontent.com/121172074/210308151-e3d3e499-66d4-4fba-86a7-b65e5e6b9836.JPG)
 
